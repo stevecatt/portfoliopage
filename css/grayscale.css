@@ -302,3 +302,9 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+.skills {
+  align-items: center;
+  justify-content: center;
+
+
+}
